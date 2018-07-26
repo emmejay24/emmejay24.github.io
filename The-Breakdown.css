@@ -5,3 +5,20 @@ body{
   background-color: #8A2BE2;
   color: #00FFFF;
 }
+body{
+  text-align: center;
+}
+h2{
+  font-size: 20px;
+}
+.top{
+  width: 800px;
+  display: block;
+  margin: auto;
+}
+.slide{
+  width: 500px;
+  height: 300px
+  border 1px black solid;
+  display: block;
+}
